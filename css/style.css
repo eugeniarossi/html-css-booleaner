@@ -4,6 +4,7 @@ body {
     box-sizing: border-box;
 }
 
+/*HEADER*/
 header {
     height: 130px;
     background-color: #4ea0ff;
@@ -14,17 +15,21 @@ header {
     width: 17%;
     margin: 50px 0 0 10px; 
 }
+/*FINE HEADER*/
 
+/*ARTICOLO*/
 article {
     margin: 10px 400px 10px 10px;
 }
 
+/*TITOLO*/
 h1 {
     font-size: 45px;
     font-weight: bolder;
     margin: 20px 0 5px 0;
 }
 
+/*SOTTOTITOLO*/
 .subtitle {
     color: #7a7a7a;
 }
@@ -36,7 +41,9 @@ h1 {
 #subtitle-date {
     font-weight: normal;
 }
+/*FINE SOTTOTITOLO*/
 
+/*IMMAGINI*/
 #img-main {
     margin: 20px 0;
 }
@@ -45,6 +52,7 @@ h1 {
     font-size: small;
 }
 
-table {
-    margin: 20px 0;
-}
+/*TABELLA*/
+
+/*FINE TABELLA*/
+/*FINE ARTICOLO*/
