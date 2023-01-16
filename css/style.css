@@ -61,6 +61,7 @@ h3 {
 table {
     margin: 20px 0;
     text-align: left;
+    border-spacing: 0;
 }
 
 thead {
