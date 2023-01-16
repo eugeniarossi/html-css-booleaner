@@ -53,6 +53,28 @@ h1 {
 }
 
 /*TABELLA*/
+table {
+    margin: 20px 0;
+    text-align: left;
+}
 
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+th {
+    width: 25%;
+}
+
+#wide-header-cell {
+    width: 50%;
+}
+
+.azure-table-raw {
+    background-color: #b1e5f2;
+}
 /*FINE TABELLA*/
+
+
 /*FINE ARTICOLO*/
