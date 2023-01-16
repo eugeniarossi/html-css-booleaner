@@ -18,7 +18,7 @@ header {
 /*FINE HEADER*/
 
 /*ARTICOLO*/
-article {
+article, footer {
     margin: 10px 400px 10px 10px;
 }
 
@@ -63,10 +63,6 @@ thead {
     color: white;
 }
 
-th {
-    width: 25%;
-}
-
 #wide-header-cell {
     width: 50%;
 }
@@ -76,5 +72,17 @@ th {
 }
 /*FINE TABELLA*/
 
-
 /*FINE ARTICOLO*/
+
+/*FOOTER*/
+.footer-section {
+    width: 300px;
+    height: 200px;
+    color: white;
+    font-size: 20px;
+}
+
+#monitor {
+    background-image: url('../img/monitor.jpg');
+}
+/*FINE FOOTER*/
