@@ -1,4 +1,4 @@
-* {
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -17,7 +17,6 @@ header {
 
 article {
     margin: 10px 400px 10px 10px;
-
 }
 
 h1 {
@@ -39,10 +38,13 @@ h1 {
 }
 
 #img-main {
-    margin-top: 20px;
+    margin: 20px 0;
 }
 
 #img-main-caption {
     font-size: small;
 }
 
+table {
+    margin: 20px 0;
+}
