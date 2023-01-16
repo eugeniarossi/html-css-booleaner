@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.layout {
+    width: 68vw;
+    margin: auto;
+}
+
+/*HEADER*/
+header {
+    height: 90px;
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+}
+
+#img-logo {
+    height: 47px;
+    margin-top: 30px;
+}
+/*FINE HEADER*/
+
+/*ARTICOLO*/
+article, footer {
+    margin-bottom: 30px;
+}
+
+/*TITOLO*/
+h1 {
+    font-size: 35px;
+    font-weight: bolder;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+/*SOTTOTITOLO*/
+.subtitle {
+    color: #7a7a7a;
+}
+
+h3 {
+    margin-top: 0;
+}
+
+#highlighted {
+    color: #3db4e8;
+}
+
+#subtitle-date {
+    font-weight: normal;
+}
+/*FINE SOTTOTITOLO*/
+
+/*IMMAGINI*/
+#img-main {
+    margin: 20px 0;
+}
+
+#img-main-caption {
+    font-size: small;
+}
+
+/*TABELLA*/
+table {
+    margin: 20px 0;
+    text-align: left;
+    border-spacing: 0;
+}
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+#wide-header-cell {
+    width: 50%;
+}
+
+.azure-table-raw {
+    background-color: #b1e5f2;
+}
+/*FINE TABELLA*/
+
+/*FINE ARTICOLO*/
+
+/*FOOTER*/
+.footer-section {
+    width: 200px;
+    height: 150px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    background-position: center;
+}
+
+#monitor {
+    background-image: url('../img/monitor.jpg');
+}
+
+#graph {
+    background-image: url('../img/graph.jpg')
+}
+/*FINE FOOTER*/
